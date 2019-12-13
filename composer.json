@@ -1,0 +1,13 @@
+{
+    "name": "thijzer/the-interface-collection",
+    "description": "",
+    "authors": [
+        {
+            "name": "Thijs De Paepe",
+            "email": "Thijs.dp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Intface\\Component\\Common\\": "src/" }
+    }
+}
